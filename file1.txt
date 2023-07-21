@@ -2,3 +2,4 @@ hello everyone
 <<<<<<< HEAD
 developer 1 changing something
 developer 2 has modified the file
+again making some changes but the file is deleted
